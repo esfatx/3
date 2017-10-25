@@ -1,7 +1,7 @@
-publishDir = "docs"
 baseurl = "https://esfatx.org/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "ESF@ATX | Enterprise Sales Forum at Austin"
-copyright = "&copy; 2017 ESF@ATX"
+publishDir = "docs"
+title = "Academic"
+copyright = "ESF@ATX &copy; 2017"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -39,8 +39,8 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Tudor Saitoc"
-  role = "Cofounder & GM"
+  name = "Lena Smith"
+  role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -48,11 +48,11 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "tudor@esfatx.org"
-  address = "311 Bowie St APT 1516, Austin, Texas, 78703, USA"1
+  email = "test@example.org"
+  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "631 559 6551"
-  skype = "tsaitoc"
+  phone = "888 888 88 88"
+  skype = "echo123"
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
